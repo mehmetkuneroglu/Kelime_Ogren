@@ -4,7 +4,7 @@ using System.Linq;
 using System.Threading.Tasks;
 using System.Windows.Forms;
 
-namespace ingilizce_kelime_ogren
+namespace Kelime_Ogren
 {
     internal static class Program
     {
