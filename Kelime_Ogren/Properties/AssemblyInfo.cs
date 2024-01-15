@@ -6,12 +6,12 @@ using System.Runtime.InteropServices;
 // denetlenir. Bütünleştirilmiş kod ile ilişkili bilgileri değiştirmek için
 // bu öznitelik değerlerini değiştirin.
 [assembly: AssemblyTitle("Kelime Öğren")]
-[assembly: AssemblyDescription("")]
+[assembly: AssemblyDescription("Her alanda ve dilde kelime öğrenimini geliştirmek için hazırlanmış basit ama etkili bir program.")]
 [assembly: AssemblyConfiguration("")]
-[assembly: AssemblyCompany("")]
+[assembly: AssemblyCompany("Zenesku")]
 [assembly: AssemblyProduct("Kelime_Ogren")]
-[assembly: AssemblyCopyright("Copyright ©  2023")]
-[assembly: AssemblyTrademark("")]
+[assembly: AssemblyCopyright("Copyright ©  2024")]
+[assembly: AssemblyTrademark("Zenesku Kelime Öğren")]
 [assembly: AssemblyCulture("")]
 
 // ComVisible özniteliğinin false olarak ayarlanması bu bütünleştirilmiş koddaki türleri
@@ -32,5 +32,5 @@ using System.Runtime.InteropServices;
 // Tüm değerleri belirtebilir veya varsayılan Derleme ve Düzeltme Numaralarını kullanmak için
 // aşağıda gösterildiği gibi '*' kullanabilirsiniz:
 // [assembly: AssemblyVersion("1.0.*")]
-[assembly: AssemblyVersion("1.0.0.0")]
-[assembly: AssemblyFileVersion("1.0.0.0")]
+[assembly: AssemblyVersion("1.0.1.6")]
+[assembly: AssemblyFileVersion("1.0.1.6")]
